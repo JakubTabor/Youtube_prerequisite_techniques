@@ -1,3 +1,4 @@
 # Now we are gonna create Flexbox, it requires container and the elements are gonna be inside our Flexbox
 * First we need to change the style of our container in display to flex
+* Next we set flex-direction to row and these means that we are gonna align our elements horizontally
 
