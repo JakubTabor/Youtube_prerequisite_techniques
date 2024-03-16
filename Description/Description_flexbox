@@ -15,3 +15,4 @@
 * The advantage of flexible layout depending on our content is the case when we resize the browser
 
 # The flexbox will help us to build the header
+* To make our flexbox how it is aligned hirizontaly, by seting property justify-content
