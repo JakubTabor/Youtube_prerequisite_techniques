@@ -3,4 +3,4 @@
 * Next we set flex-direction to row and these means that we are gonna align our elements horizontally
 * So inside Flexbox the <div>, which is block-element, don't behave like block-element
 * But like inline-block element, they take as much horizontal space as they needed
-
+* When we add some text to the <div> it expand and will take only as much space as it need to
