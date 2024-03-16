@@ -11,3 +11,4 @@
 * flex1 element is equivalent to fr1 in grid
 * But for grid the layout is more rigid, because first we need to define the columns
 * And with grid we need to be careful when changing the order
+* In flex box when we change the order the layout keeps its shape, so it's flexible
