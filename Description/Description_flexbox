@@ -5,3 +5,4 @@
 * But like inline-block element, they take as much horizontal space as they needed
 * When we add some text to the <div> it expand and will take only as much space as it need to
 * If we make second div taller aading por example paragraph, the flexbox will be vertically aligned
+* So the Flexbox is another way to create the horizontal layouts in our video-previews, while maintaining alignment
