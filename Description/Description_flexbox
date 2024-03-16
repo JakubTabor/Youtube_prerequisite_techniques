@@ -12,3 +12,4 @@
 * But for grid the layout is more rigid, because first we need to define the columns
 * And with grid we need to be careful when changing the order
 * In flex box when we change the order the layout keeps its shape, so it's flexible
+* The advantage of flexible layout depending on our content is the case when we resize the browser
