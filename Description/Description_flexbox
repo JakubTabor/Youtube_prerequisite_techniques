@@ -6,3 +6,5 @@
 * When we add some text to the <div> it expand and will take only as much space as it need to
 * If we make second div taller aading por example paragraph, the flexbox will be vertically aligned
 * So the Flexbox is another way to create the horizontal layouts in our video-previews, while maintaining alignment
+
+# Now when we add a new style, which is flex and set it to 1 the element will take the remaining amount of space
