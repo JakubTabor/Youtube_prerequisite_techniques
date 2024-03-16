@@ -9,3 +9,4 @@
 
 # Now when we add a new style, which is flex and set it to 1 the element will take the remaining amount of space
 * flex1 element is equivalent to fr1 in grid
+* But for grid the layout is more rigid, because first we need to define the columns
