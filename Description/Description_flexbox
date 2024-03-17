@@ -16,3 +16,4 @@
 
 # The flexbox will help us to build the header
 * To make our flexbox how it is aligned hirizontaly, by seting property justify-content
+* The start positions is: start and we can change it to: end or center
