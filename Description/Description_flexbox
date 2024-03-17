@@ -21,3 +21,4 @@
 * If we want to align the elements vertically we call the property align-items
 * The default value is stretch, but we can also align them to the start to place our elements at the top
 * Or align our elements to the end to put them at the bottom of our container
+* And if we set them to center the will be vertically centered
