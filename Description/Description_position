@@ -2,3 +2,4 @@
 * Also when there is an element on top of another element
 * Por example: the video time is on top of the thumbnail or notification number is on top of the icon
 * So CSS position add another dimension to our page and it's just position property
+* There could be many positions,  the default is static
