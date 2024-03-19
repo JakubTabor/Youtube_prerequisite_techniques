@@ -15,3 +15,5 @@
 ![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Flexbox_images/items_alignment.png)
 
 # CSS position will also be helpful to position one element towards the other  
+
+![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Position_images/all_items_position.png)
