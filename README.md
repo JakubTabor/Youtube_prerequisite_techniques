@@ -8,3 +8,7 @@
 
 # I gonna use also flexbox to create flexible elements of the page
 
+![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Flexbox_images/flex1_size.png)
+
+![]()
+
