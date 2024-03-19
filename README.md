@@ -6,4 +6,5 @@
 
 ![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Grid_images/grid_layout.png)
 
+# I gonna use also flexbox to create flexible elements of the page
 
