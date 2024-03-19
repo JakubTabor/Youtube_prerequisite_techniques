@@ -12,3 +12,5 @@
 
 ![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Flexbox_images/flex1_flex2_size.png)
 
+![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Flexbox_images/items_alignment.png)
+
