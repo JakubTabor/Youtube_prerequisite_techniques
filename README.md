@@ -2,6 +2,8 @@
 
 ![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Grid_images/1fr_size.png)
 
+![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Grid_images/div_size.png)
+
 ![](https://github.com/JakubTabor/Youtube_prerequisite_techniques/blob/main/Images/Grid_images/grid_layout.png)
 
 
